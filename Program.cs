@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HuaiweiPhoneImportFileDateReapir {
+namespace HuaiweiPhoneExportFileDateReapir {
     class Program {
         static void Main(string[] args) {
             string path = @"D:\test";
